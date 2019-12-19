@@ -8,6 +8,7 @@ Hay una mezcla de unidades imperiales y métricas.
 ### Café
 - [Simple syrup](cafe/simple-syrup.md)
 - [Shakerato](cafe/shakerato.md)
+- [Kyoto cold brew](cafe/kyoto-cold-brew.md)
 
 ### Carnes 
 - [Pollo sous vide](carnes/pollo-sous-vide.md)
