@@ -11,12 +11,12 @@ terminarlos en agua. De [America's Test Kitchen][atk].
 
 ### Preparación
 1. Precalentar el agua a 167 F / 75 C.
-2. Poner los huevos en el agua suavemente.
+2. Poner los huevos con cáscara en el agua suavemente.
 3. Cocinar por 12 minutos.
 4. Sacar rápidamente del agua y ponerlos por 1 minuto en un baño de agua con
    mucho hielo para que dejen de cocerse. Sacar al minuto justo para que no se
    enfríe la yema.
-5. Servir rápido.
+5. Quebrar y servir rápido.
    * Quedan deliciosos sobre un pan o english muffin con mantequilla, palta, y
      tocino, aliñados con salsa holandesa, sal, y pimienta.
 
