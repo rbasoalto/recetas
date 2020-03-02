@@ -17,6 +17,9 @@ Hay una mezcla de unidades imperiales y métricas.
 - [Pancakes thermomix](desayuno/pancakes-thermomix.md)
 - [Sous-vide poached eggs](desayuno/sous-vide-poached-eggs.md)
 
+### Helados
+- [Compilado recetas de helados](helados/recetas-helados.md)
+
 ### Pan
 - [Pan](pan/pan_sahli.md)
 - [Pan blanco Kitchenaid](pan/pan-kitchenaid.md)
@@ -26,5 +29,4 @@ Hay una mezcla de unidades imperiales y métricas.
 - [Masa pizza 20 minutos](pizza/pizza-20min.md)
 - [Salsa tomate](pizza/salsa-tomate.md)
 
-### Helados
-- [Compilado recetas de helados](helados/recetas-helados.md)
+
