@@ -20,7 +20,11 @@ Hay una mezcla de unidades imperiales y métricas.
 ### Pan
 - [Pan](pan/pan_sahli.md)
 - [Pan blanco Kitchenaid](pan/pan-kitchenaid.md)
+- [Pan masa madre](pan/pan-mm.md)
 
 ### Pizza
 - [Masa pizza 20 minutos](pizza/pizza-20min.md)
 - [Salsa tomate](pizza/salsa-tomate.md)
+
+### Helados
+- [Compilado recetas de helados](helados/recetas-helados.md)
