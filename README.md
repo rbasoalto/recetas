@@ -25,6 +25,9 @@ Hay una mezcla de unidades imperiales y métricas.
 - [Pan blanco Kitchenaid](pan/pan-kitchenaid.md)
 - [Pan masa madre](pan/pan-mm.md)
 
+### Pasta
+- [Carbonara](pasta/carbonara.md)
+
 ### Pizza
 - [Masa pizza 20 minutos](pizza/pizza-20min.md)
 - [Salsa tomate](pizza/salsa-tomate.md)
