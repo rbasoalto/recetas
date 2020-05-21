@@ -30,6 +30,7 @@ Hay una mezcla de unidades imperiales y métricas.
 
 ### Pizza
 - [Masa pizza 20 minutos](pizza/pizza-20min.md)
+- [Masa pizza fermentación lenta](pizza/pizza-pb.md)
 - [Salsa tomate](pizza/salsa-tomate.md)
 
 
