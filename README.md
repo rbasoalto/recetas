@@ -23,7 +23,8 @@ Hay una mezcla de unidades imperiales y métricas.
 ### Pan
 - [Pan](pan/pan_sahli.md)
 - [Pan blanco Kitchenaid](pan/pan-kitchenaid.md)
-- [Pan masa madre](pan/pan-mm.md)
+- [Pan masa madre](pan/pan_mm.md)
+- [Pan masa madre (BWJ)](pan/pan_mm_bwj.md)
 
 ### Pasta
 - [Carbonara](pasta/carbonara.md)
