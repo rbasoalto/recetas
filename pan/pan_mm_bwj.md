@@ -66,4 +66,4 @@
 * Reducir la temperatura a 190 ºC con convección y hornear por 20-25 minutos más
 * Enfriar en una rejilla, esperar a que se enfríe para cortar y comer
 
-Basado en receta de [Bake With Jack](https://www.bakewithjack.co.uk/blog-1/2018/7/5/sourdough-loaf-for-beginners)
+Basado en receta de [Bake With Jack](https://www.bakewithjack.co.uk/blog-1/2018/7/5/sourdough-loaf-for-beginners), [video](https://youtu.be/vmb0wWKITBQ).
